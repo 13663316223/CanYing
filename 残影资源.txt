@@ -357,7 +357,7 @@ CCTV-17(高清),http://111.20.105.60:6060/yinhe/2/ch00000090990000001301/index.m
 湖南电影,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000044
 快乐垂钓,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000084#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
 金鹰纪实,http://39.135.139.214:6610/PLTV/88888888/224/3221225595/2/index.m3u8#http://111.20.45.159/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8#http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000041
-金鹰卡通,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000036
+金鹰卡通,https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWQzN2VjMTg5ZmE2ZWMyZDIzMzI3OGU2NzJiYmY3ZjJlJmVzPTE2MzMzMDEzNTUmdXVpZD03OTVhZjRhZjY4ODlmNWU4Mzc5MTVjOTNhZDk4MzVmOS0xYmJiZTAwNiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
 先锋乒羽,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000080
 湖南教育,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000037
 茶频道,http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000085#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
@@ -423,6 +423,7 @@ Hot少儿动漫 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8
 优漫卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 优漫卡通,http://117.136.156.107/PLTV/88888888/224/3221225556/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+金鹰卡通,https://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWQzN2VjMTg5ZmE2ZWMyZDIzMzI3OGU2NzJiYmY3ZjJlJmVzPTE2MzMzMDEzNTUmdXVpZD03OTVhZjRhZjY4ODlmNWU4Mzc5MTVjOTNhZDk4MzVmOS0xYmJiZTAwNiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
 金鹰卡通,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
 金鹰卡通,http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
