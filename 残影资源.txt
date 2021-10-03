@@ -54,9 +54,6 @@ PPTV,http://zy.itono.cn/inc/pptv.php,解析
 哔哩哔哩,http://zy.itono.cn/inc/bilibili.php,解析
 结束
 解析：
-M3U81,https://jx.m3u8.tv/jiexi/?url=
-M3U82,https://jiexi.janan.net/jiexi/?url=
-M3U83,https://jx.rdhk.net/?v=
 人人,https://www.ifreefans.com/jx2/?url=
 亿慧通,https://www.json.yihuiton.com/?url=
 暮光,https://www.mgtv.com.muguangys.com/jiexi.php?url=
@@ -128,6 +125,9 @@ PAR,https://jx.parwix.com:4433/player/?url=
 乐多,https://api.ldjx.cc/1.php?vid=
 1907,https://z1.m1907.cn/?jx=
 17K,https://17kyun.com/jx.php?url=
+M3U81,https://jx.m3u8.tv/jiexi/?url=
+M3U82,https://jiexi.janan.net/jiexi/?url=
+M3U83,https://jx.rdhk.net/?v=
 竹嘎,http://kky.ynnyk.cc/xg.php/?url=
 麒麟蓝光,https://jx.sujx.top/jiexi.php/?url=
 全民,http://jx.quanmingjiexi.com:80/?url=
