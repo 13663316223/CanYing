@@ -1,6 +1,5 @@
 点播：
 极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
-红牛,https://www.hongniuzy.com/inc/api.php,不解析
 爱看,http://v.aik.la/api.php/provide/vod/at/xml,不解析
 电影,https://www.dianyingn.com/api.php/provide/vod/at/xml/,不解析
 安逸,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
@@ -10,6 +9,7 @@
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
 橘猫神马,http://www.zitv.cc/api.php/provide/vod/at/xml,解析
 白熊影院,https://www.bxyy5.com/api.php/provide/vod/at/xml,解析
+红牛,https://www.hongniuzy.com/inc/api.php,不解析
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml,解析
 1717云,http://zy.itono.cn/inc/api.php,解析
 快播,http://www.kuaibozy.com/api.php/provide/vod/at/xml,解析
