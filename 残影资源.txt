@@ -1,7 +1,5 @@
 点播：
-极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
 爱看,http://v.aik.la/api.php/provide/vod/at/xml,不解析
-电影,https://www.dianyingn.com/api.php/provide/vod/at/xml/,不解析
 安逸,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
 柚子,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 飘花,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析
